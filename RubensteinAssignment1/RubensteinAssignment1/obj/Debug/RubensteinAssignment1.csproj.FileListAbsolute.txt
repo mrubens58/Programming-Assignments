@@ -1,0 +1,10 @@
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinAssignment1\RubensteinAssignment1\bin\Debug\RubensteinAssignment1.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\bin\Debug\RubensteinAssignment1.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\bin\Debug\RubensteinAssignment1.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\bin\Debug\RubensteinAssignment1.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\obj\Debug\RubensteinAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\obj\Debug\RubensteinAssignment1.Form1.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\obj\Debug\RubensteinAssignment1.Properties.Resources.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\obj\Debug\RubensteinAssignment1.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\obj\Debug\RubensteinAssignment1.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinAssignment1-2016-01-29\RubensteinAssignment1\RubensteinAssignment1\obj\Debug\RubensteinAssignment1.pdb

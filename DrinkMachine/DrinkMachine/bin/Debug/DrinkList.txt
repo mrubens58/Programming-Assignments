@@ -1,0 +1,5 @@
+cola, 1.00, 20
+rootbeer, 1.00, 20
+lemonlime, 1.00, 20
+grapesoda, 1.50, 20
+creamsoda, 1.50, 20

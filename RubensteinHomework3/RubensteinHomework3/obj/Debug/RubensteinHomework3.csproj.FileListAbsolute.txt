@@ -1,0 +1,21 @@
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.exe.config
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.exe
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.pdb
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.csprojResolveAssemblyReference.cache
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.Form1.resources
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.Properties.Resources.resources
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.csproj.GenerateResource.Cache
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.exe
+c:\users\labuser\documents\visual studio 2013\Projects\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.csprojResolveAssemblyReference.cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.Form1.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.Properties.Resources.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\RubensteinHomework3\RubensteinHomework3\bin\Debug\RubensteinHomework3.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\RubensteinHomework3\RubensteinHomework3\obj\Debug\RubensteinHomework3.pdb

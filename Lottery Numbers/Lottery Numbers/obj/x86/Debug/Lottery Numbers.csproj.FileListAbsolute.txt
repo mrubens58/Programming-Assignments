@@ -1,0 +1,18 @@
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap07\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Form1.resources
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery_Numbers.Properties.Resources.resources
+C:\Users\Labuser\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.exe
+C:\Users\Michael_2\Downloads\Lottery Numbers\Lottery Numbers\obj\x86\Debug\Lottery Numbers.pdb

@@ -1,0 +1,5 @@
+Joe Smith, jsmith@hotmail.com, (987)123-4567
+Jane Doe, jane.doe@gmail.com, (000)000-0000
+Juan de Pueblo, jdpueblo@city.gov, (564)857-2354
+Jenny Tutone, igotit@bathroom.com, (555)867-5309
+Sarah Connor, nofate@skynet.net, (456)789-1234

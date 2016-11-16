@@ -1,0 +1,15 @@
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\bin\Debug\VariablePlay.exe.config
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\bin\Debug\VariablePlay.exe
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\bin\Debug\VariablePlay.pdb
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\obj\Debug\VariablePlay.csprojResolveAssemblyReference.cache
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\obj\Debug\VariablePlay.Form1.resources
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\obj\Debug\VariablePlay.Properties.Resources.resources
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\obj\Debug\VariablePlay.csproj.GenerateResource.Cache
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\obj\Debug\VariablePlay.exe
+c:\users\kitscott\documents\visual studio 2013\Projects\VariablePlay\VariablePlay\obj\Debug\VariablePlay.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\VariablePlay\VariablePlay\bin\Debug\VariablePlay.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING\225\VariablePlay\VariablePlay\obj\Debug\VariablePlay.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\VariablePlay\VariablePlay\obj\Debug\VariablePlay.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\VariablePlay\VariablePlay\bin\Debug\VariablePlay.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\VariablePlay\VariablePlay\obj\Debug\VariablePlay.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\VariablePlay\VariablePlay\obj\Debug\VariablePlay.pdb

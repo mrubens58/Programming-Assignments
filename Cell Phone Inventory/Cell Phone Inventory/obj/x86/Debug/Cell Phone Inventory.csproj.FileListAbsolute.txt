@@ -1,0 +1,20 @@
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csprojResolveAssemblyReference.cache
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.Cache
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.MainForm.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.PriceForm.resources
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.MainForm.resources
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.PriceForm.resources
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.Cache
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe
+C:\Users\Labuser\Downloads\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb

@@ -1,0 +1,36 @@
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.exe
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.pdb
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Form1.resources
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
+G:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+K:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
+K:\Books\C#\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\bin\Debug\South America.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+C:\Users\Labuser\Downloads\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\Labuser\Downloads\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\Labuser\Downloads\South America\South America\bin\Debug\South America.exe
+C:\Users\Labuser\Downloads\South America\South America\bin\Debug\South America.pdb
+C:\Users\Labuser\Downloads\South America\South America\obj\x86\Debug\South America.csprojResolveAssemblyReference.cache
+C:\Users\Labuser\Downloads\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\Labuser\Downloads\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\Labuser\Downloads\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\obj\x86\Debug\South America.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\bin\Debug\South America.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\bin\Debug\South America.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\obj\x86\Debug\South America.csprojResolveAssemblyReference.cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\obj\x86\Debug\South_America.Form1.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\obj\x86\Debug\South_America.Properties.Resources.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\South America\South America\obj\x86\Debug\South America.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\South America\South America\obj\x86\Debug\South America.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\South America\South America\obj\x86\Debug\South America.pdb

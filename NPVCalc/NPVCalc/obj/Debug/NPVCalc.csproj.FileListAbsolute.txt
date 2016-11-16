@@ -1,0 +1,12 @@
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\bin\Debug\NPVCalc.exe.config
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\bin\Debug\NPVCalc.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\bin\Debug\NPVCalc.pdb
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\obj\Debug\NPVCalc.csprojResolveAssemblyReference.cache
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\obj\Debug\NPVCalc.Form1.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\obj\Debug\NPVCalc.Properties.Resources.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\obj\Debug\NPVCalc.csproj.GenerateResource.Cache
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\obj\Debug\NPVCalc.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\NPVCalc\NPVCalc\obj\Debug\NPVCalc.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\NPVCalc\NPVCalc\bin\Debug\NPVCalc.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\NPVCalc\NPVCalc\obj\Debug\NPVCalc.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\NPVCalc\NPVCalc\obj\Debug\NPVCalc.pdb

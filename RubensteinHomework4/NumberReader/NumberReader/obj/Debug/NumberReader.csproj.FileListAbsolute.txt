@@ -1,0 +1,21 @@
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\bin\Debug\NumberReader.exe.config
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\bin\Debug\NumberReader.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\bin\Debug\NumberReader.pdb
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\obj\Debug\NumberReader.csprojResolveAssemblyReference.cache
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\obj\Debug\NumberReader.Form1.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\obj\Debug\NumberReader.Properties.Resources.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\obj\Debug\NumberReader.csproj.GenerateResource.Cache
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\obj\Debug\NumberReader.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\NumberReader\NumberReader\obj\Debug\NumberReader.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\bin\Debug\NumberReader.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\bin\Debug\NumberReader.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\bin\Debug\NumberReader.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.csprojResolveAssemblyReference.cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.Form1.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.Properties.Resources.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\RubensteinHomework4\NumberReader\NumberReader\bin\Debug\NumberReader.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\RubensteinHomework4\NumberReader\NumberReader\obj\Debug\NumberReader.pdb

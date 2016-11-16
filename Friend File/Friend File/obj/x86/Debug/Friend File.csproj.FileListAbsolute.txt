@@ -1,0 +1,26 @@
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\kitscott\Documents\ITM225\0133444937_sourcecode\Student Sample Programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\Labuser\Downloads\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Labuser\Downloads\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\Labuser\Downloads\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\Labuser\Downloads\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\Labuser\Downloads\Friend File\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+C:\Users\Labuser\Downloads\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\Labuser\Downloads\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\Labuser\Downloads\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\Michael_2\Documents\BSU\SPRING\225\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\Friend File\Friend File\obj\x86\Debug\Friend File.pdb

@@ -1,0 +1,12 @@
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\bin\Debug\DrinkMachine.exe.config
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\bin\Debug\DrinkMachine.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\bin\Debug\DrinkMachine.pdb
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.csprojResolveAssemblyReference.cache
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.Form1.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.Properties.Resources.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.csproj.GenerateResource.Cache
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.pdb
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\DrinkMachine\DrinkMachine\bin\Debug\DrinkMachine.exe.config
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.exe
+C:\Users\Michael_2\Documents\BSU\SPRING 2016\225\DrinkMachine\DrinkMachine\obj\Debug\DrinkMachine.pdb

@@ -1,0 +1,9 @@
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\bin\Debug\Customer Discount.exe.config
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\bin\Debug\Customer Discount.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\bin\Debug\Customer Discount.pdb
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\obj\Debug\Customer Discount.csprojResolveAssemblyReference.cache
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\obj\Debug\Customer_Discount.Form1.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\obj\Debug\Customer_Discount.Properties.Resources.resources
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\obj\Debug\Customer Discount.csproj.GenerateResource.Cache
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\obj\Debug\Customer Discount.exe
+c:\users\michael_2\documents\visual studio 2015\Projects\Customer Discount\Customer Discount\obj\Debug\Customer Discount.pdb
